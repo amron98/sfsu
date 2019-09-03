@@ -1,1 +1,1 @@
-# sfsu
+# San Francisco State University 
