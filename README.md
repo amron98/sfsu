@@ -7,6 +7,6 @@
 
 ## CSC 340  : Programming Methodology
 
-## CSC 340  : Software Development 
+## CSC 413  : Software Development 
 
 
